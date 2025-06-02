@@ -4,7 +4,7 @@ const initialState = {
     counter: 0
 };
 
-// Reducer function
+
 const counterReducer = (state = initialState, action) => {
     switch (action.type) {
         case "INCREMENT":
@@ -16,7 +16,7 @@ const counterReducer = (state = initialState, action) => {
     }
 };
 
-// Create store
+
 const store = createStore(counterReducer);
 
 export default store;

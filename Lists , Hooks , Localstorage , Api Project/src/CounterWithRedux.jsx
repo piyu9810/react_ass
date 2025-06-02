@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector, useDispatch } from "react-redux";
 
 const CounterWithRedux = () => {
-  const count = useSelector((state) => state.counter); // ✅ Ensure this matches the key in store.js
+  const count = useSelector((state) => state.counter); 
   const dispatch = useDispatch();
 
   return (

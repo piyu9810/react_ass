@@ -1,9 +1,7 @@
 .about-container,
 .contact-container {
     width: 100vw;
-    /* Full width */
     height: 100vh;
-    /* Full height */
     position: relative;
 }
 
@@ -12,12 +10,10 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    /* Ensures full coverage */
     position: absolute;
     top: 0;
     left: 0;
     z-index: -1;
-    /* Moves image to background */
 }
 
 .about-content,
@@ -26,6 +22,5 @@
     top: 20px;
     left: 20px;
     color: white;
-    /* Ensures visibility */
     z-index: 1;
 }

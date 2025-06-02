@@ -1,7 +1,6 @@
 .navbar {
     display: flex;
     justify-content: flex-start;
-    /* Align to the left */
     align-items: center;
     padding: 15px;
     background-color: #333;
