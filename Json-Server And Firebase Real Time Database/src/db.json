@@ -1,0 +1,27 @@
+{
+    "users": [{
+            "name": "Jiya ",
+            "role": "Back-end",
+            "city": "Navsari",
+            "id": "2"
+        },
+        {
+            "id": "3",
+            "name": "Payal",
+            "role": "Front-end",
+            "city": "Baroda"
+        },
+        {
+            "id": "4",
+            "name": "Heer",
+            "role": "Full-stack",
+            "city": "Ahemdabad"
+        },
+        {
+            "id": "1",
+            "name": "riya",
+            "role": "Front-end",
+            "city": "Surat"
+        }
+    ]
+}
